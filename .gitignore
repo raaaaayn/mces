@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!*.asm
+!README.md
+
+!*/
